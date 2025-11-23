@@ -7,8 +7,6 @@ I'm excited to share the code for my **Book Library App**, designed to enhance t
 ![image](https://github.com/user-attachments/assets/343cac01-3fec-4c4a-810b-af0bc4fecf4d)
 
 
-### 🌐 **Project Link:**  
-[Book Library App](https://abdulrahman707.netlify.app/)
 
 ---
 
